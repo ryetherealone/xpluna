@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ryetherealone/xpluna">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">XP Luna</h3>
@@ -13,7 +13,7 @@
     <br>
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="[https://github.com/othneildrew/Best-README-Template/issues](https://discord.gg/Wr7CngVQXP)">Request Feature</a>
   </p>
 </div>
 
