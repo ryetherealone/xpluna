@@ -11,9 +11,9 @@
   <p align="center">
     Windows 10 but it looks like Windows XP
     <br>
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://discord.gg/Wr7CngVQXP">Report Bug</a>
     ·
-    <a href="[https://github.com/othneildrew/Best-README-Template/issues](https://discord.gg/Wr7CngVQXP)">Request Feature</a>
+    <a href="[https://discord.gg/Wr7CngVQXP]">Request Feature</a>
   </p>
 </div>
 
