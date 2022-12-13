@@ -13,7 +13,7 @@
     <br>
     <a href="https://discord.gg/Wr7CngVQXP">Report Bug</a>
     ·
-    <a href="[https://discord.gg/Wr7CngVQXP]">Request Feature</a>
+    <a href="https://discord.gg/Wr7CngVQXP">Request Feature</a>
   </p>
 </div>
 
